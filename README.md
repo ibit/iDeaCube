@@ -26,7 +26,8 @@
 ChatGPTの生成AIを利用している人の多くは、自己の意見を具現化するために利用していると答えたので
 
 ## 使用した言語(予定)
-Python/SQL
+| Python | SQL | Rudy | 
+|:------------:|:------------:|:------------:|
 
 ## LICENSE
-[MIT]()
+[MIT](https://github.com/ibit/iDeaCube?tab=MIT-1-ov-file)
